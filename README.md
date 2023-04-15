@@ -10,7 +10,7 @@ open EmoTracker
 
 step 3
 pick the packs 
-(if you dont see it unzip it, and you should see the readme.txt in ...\EmoTracker\packs\Lufia2, not like ...\EmoTracker\packs\Lufia2\Lufia2 )
+(if you dont see it unzip it, and you should see the readme.txt in ...documents\EmoTracker\packs\Lufia2, not like ...\EmoTracker\packs\Lufia2\Lufia2 )
 
 There a broacast view for obs by pressin F2 in the EmoTracker
 
