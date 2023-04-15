@@ -3,7 +3,7 @@
 How to use
 
 step 1
-put the pack in ...\EmoTracker\packs
+put the pack in ...documents\EmoTracker\packs
 
 step 2
 open EmoTracker
